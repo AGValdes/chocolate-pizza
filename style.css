@@ -1,0 +1,215 @@
+
+img {
+  /* border: solid black 1px; */
+
+}
+
+body {
+  width: 900px;
+  padding: 25px;
+}
+
+#logo{
+  position: absolute;
+}
+
+h1{
+  font-family: 'Lily Script One', cursive;
+  font-size: 2em;
+  /* border: solid black 1px; */
+  height: ;
+  width: 150px;
+  position: absolute;
+  margin-left: 45px;
+
+}
+
+/* #logoArea {
+  display: flex;
+  flex-flow: wrap-reverse;
+  border: solid black 1px;
+  width:200px;
+
+
+} */
+
+#subHeader {
+  position: absolute;
+  margin-left: 45px;
+  /* border: solid black 1px; */
+  margin-top: 27px;
+}
+
+/* #iconWrangler{
+  border: solid black 1px;
+} */
+
+.icon{
+  float: right;
+}
+
+#gap{
+  margin-left: 10px;
+}
+
+#bottomBorder {
+  /* border-bottom: 15px solid transparent;
+  border-image-source: url("images/hr-img.png");
+  border-image-repeat: repeat; */
+  position: absolute;
+  background-image: url("images/hr-img.png");
+  /* border: black solid 1px; */
+  margin-top: 75px;
+  width: 900px;
+  color: white;
+}
+
+#chocoPizza {
+  width: 900px;
+  margin: auto;
+  margin-top: 225px;
+}
+
+#pizzaHeader{
+  position: absolute;
+  margin-top: 150px;
+}
+
+h2 {
+  font-size: 2.2em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  
+}
+
+h3 {
+  color: darkgray;
+}
+
+#printBox {
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 831px;
+  /* border: black solid 1px; */
+  width: 75px;
+  /* text-align: right; */
+  display: flex;
+}
+
+article {
+  padding-top: 15px;
+  height:350px;
+  font-size: 1.5em;
+}
+
+.recipe {
+  margin: 15px;
+  text-indent: 50px;
+  color: rgb(116, 116, 116);
+  text-align: justify;
+}
+
+#list {
+  background-image: url("images/list-bg.png");
+  height: 300px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.7em;
+  display: flex;
+}
+
+#right {
+  /* display: flex; */
+  /* text-align: right; */
+  /* border: black solid 1px;  */
+  width: 400px;
+  margin-left: 100px;
+  padding-top: 25px;
+}
+
+#left{
+  width: 400px;
+  margin-left: 50px;
+  padding-top: 25px;
+}
+
+/* ul {
+  list-style: ;
+} */
+
+.strikeThrough {
+  text-decoration: line-through;
+}
+
+li {
+  padding:5px;
+}
+
+#author {
+  /* border: black solid 1px; */
+  margin-top: 100px;
+  height: 75px;
+  color: rgb(116, 116, 116);
+  width: 600px;
+  /* border: solid black 1px; */
+  display: flex;
+  flex-flow: nowrap nowrap wrap;
+}
+
+#vanessa {
+  float: left;
+  padding: 10px;
+}
+h4 {
+  font-size: 1.5em;
+}
+
+#description {
+  font-size: 1.2em;
+  padding: 5px;
+  width: 550px;
+}
+
+#share {
+  background-color: sienna;
+  height: 75px;
+  width: 225px;
+  margin-left: 675px;
+  position: absolute;
+  margin-bottom: 50px;
+  text-align: center;
+
+  
+}
+
+#shareText {
+  margin: auto;
+  /* border: black solid 1px; */
+  padding-top: 27px;
+  color: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+}
+
+footer {
+  /* border-top: 1px darkgray solid; */
+  text-align: center;
+  padding: 40px;
+}
+
+#smallLogoDiv {
+  border-bottom: 1px darkgray solid;
+  /* position: absolute; */
+  margin-top: 30px;
+  color: white;
+}
+
+#smallLogo {
+  border: white solid 8px;
+  position: absolute;
+  margin-left: 450px;
+  /* margin-bottom: 50px; */
+  margin-bottom: 15px;
+  z-index: 1;
+  
+}
+

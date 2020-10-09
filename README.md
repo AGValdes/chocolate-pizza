@@ -1,3 +1,5 @@
-# chocolate-pizza
+# chocolate-pizza 201 Lab 10
 
-Test push
+Ameilia Valdes & Simon Panek
+
+
